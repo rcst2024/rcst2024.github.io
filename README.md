@@ -1,1 +1,1 @@
-# rcst2024.github.io
+# rcst.github.io
